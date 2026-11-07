@@ -3,8 +3,8 @@
 A full-stack MERN blog built for the **Syntecxhub Web Development Internship (Task 4, Project 2)**.
 Anyone can read posts. Signed-in users write posts in a rich text editor, upload images, and edit or delete **only their own** posts.
 
-**Live app:** _add your frontend URL here_
-**Live API:** _add your backend URL here_
+**Live app:** https://syntecxhub-blog-app.vercel.app
+**Live API:** https://syntecxhub-blog-api.vercel.app
 
 ## Features
 
